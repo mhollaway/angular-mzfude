@@ -10,6 +10,7 @@ export class ProductDetailsComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    // local test push
   }
 
 }
